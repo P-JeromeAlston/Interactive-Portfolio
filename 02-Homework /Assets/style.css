@@ -24,3 +24,19 @@ p {
 .aboutme {
     padding-top: 50px;
 }
+
+.construction {
+   text-align: center;
+   margin-top: 200px;
+   font-size: 75px;
+
+}
+form {
+    margin: 100px;
+
+}
+button{
+    color: green;
+    margin-top: 50px;
+   
+}
